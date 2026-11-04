@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" font-family="DejaVu Sans, Verdana, Arial, sans-serif">
+<title>02 Main menu</title>
+<rect width="320" height="240" fill="#0e1520"/>
+<!-- header -->
+<rect x="0" y="0" width="320" height="26" fill="#172233"/>
+<line x1="0" y1="26" x2="320" y2="26" stroke="#2b3d57" stroke-width="1"/>
+<text x="10" y="18" font-size="12" fill="#d6dfeb" font-weight="bold" letter-spacing="0.5">MAIN MENU</text>
+
+<!-- tile 1: Electronic Load -->
+<rect x="10" y="36" width="146" height="84" rx="8" fill="#172233" stroke="#2b3d57" stroke-width="1"/>
+<g transform="translate(22,58) scale(1.4)">
+  <polygon points="14,0 4,14 11,14 8,26 20,10 13,10" fill="#f0a030"/>
+</g>
+<text x="68" y="74" font-size="13" fill="#d6dfeb" font-weight="bold">Electronic</text>
+<text x="68" y="92" font-size="13" fill="#d6dfeb" font-weight="bold">Load</text>
+
+<!-- tile 2: Battery Test (selected) -->
+<rect x="164" y="36" width="146" height="84" rx="8" fill="#1d2b40" stroke="#4fd8e8" stroke-width="1.6"/>
+<g transform="translate(174,58) scale(1.4)">
+  <rect x="1" y="5" width="22" height="14" rx="2" fill="none" stroke="#2ecc71" stroke-width="1.6"/>
+  <rect x="23" y="9" width="3" height="6" rx="1" fill="#2ecc71"/>
+  <rect x="4" y="8" width="4" height="8" rx="0.5" fill="#2ecc71"/>
+  <rect x="10" y="8" width="4" height="8" rx="0.5" fill="#2ecc71"/>
+</g>
+<text x="222" y="74" font-size="13" fill="#d6dfeb" font-weight="bold">Battery</text>
+<text x="222" y="92" font-size="13" fill="#d6dfeb" font-weight="bold">Test</text>
+
+<!-- tile 3: Data Graph -->
+<rect x="10" y="128" width="146" height="84" rx="8" fill="#172233" stroke="#2b3d57" stroke-width="1"/>
+<g transform="translate(22,150) scale(1.4)">
+  <polyline points="2,2 2,22 26,22" fill="none" stroke="#7f90a8" stroke-width="1.5"/>
+  <polyline points="4,16 10,10 16,14 25,4" fill="none" stroke="#4fd8e8" stroke-width="2"/>
+</g>
+<text x="68" y="166" font-size="13" fill="#d6dfeb" font-weight="bold">Data</text>
+<text x="68" y="184" font-size="13" fill="#d6dfeb" font-weight="bold">Graph</text>
+
+<!-- tile 4: Settings -->
+<rect x="164" y="128" width="146" height="84" rx="8" fill="#172233" stroke="#2b3d57" stroke-width="1"/>
+<g transform="translate(174,150) scale(1.4)">
+  <circle cx="13" cy="13" r="9" fill="none" stroke="#7f90a8" stroke-width="4" stroke-dasharray="3.5 3.2"/>
+  <circle cx="13" cy="13" r="7" fill="none" stroke="#7f90a8" stroke-width="2"/>
+  <circle cx="13" cy="13" r="2.5" fill="#7f90a8"/>
+</g>
+<text x="222" y="175" font-size="13" fill="#d6dfeb" font-weight="bold">Settings</text>
+
+<!-- footer -->
+<rect x="0" y="222" width="320" height="18" fill="#172233"/>
+<line x1="0" y1="222" x2="320" y2="222" stroke="#2b3d57" stroke-width="1"/>
+<text x="10" y="234" font-size="9" fill="#7f90a8">Rotate: select</text>
+<text x="310" y="234" font-size="9" fill="#7f90a8" text-anchor="end">Press: open</text>
+</svg>
