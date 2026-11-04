@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="320"
+   height="240"
+   viewBox="0 0 320 240"
+   font-family="DejaVu Sans, Verdana, Arial, sans-serif"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="15_calibration.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2774731"
+     inkscape:cx="74.863673"
+     inkscape:cy="102.96499"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <title
+     id="title1">15 Calibration</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="pg"
+       x1="0"
+       x2="1"
+       y1="0"
+       y2="0">
+      <stop
+         offset="0"
+         stop-color="#4fd8e8"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#3b9ae8"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="320"
+     height="240"
+     fill="#0e1520"
+     id="rect2" />
+  <rect
+     x="0.0"
+     y="0.0"
+     width="320.0"
+     height="26.0"
+     rx="0"
+     fill="#172233"
+     id="rect3" />
+  <line
+     x1="0.0"
+     y1="26.0"
+     x2="320.0"
+     y2="26.0"
+     stroke="#2b3d57"
+     stroke-width="1"
+     id="line3" />
+  <text
+     x="10.0"
+     y="18.0"
+     font-size="12"
+     fill="#d6dfeb"
+     text-anchor="start"
+     font-weight="bold"
+     letter-spacing="0.5"
+     id="text3">CALIBRATION</text>
+  <rect
+     x="266.0"
+     y="5.0"
+     width="46.0"
+     height="16.0"
+     rx="8"
+     fill="#3b9ae8"
+     stroke="#3b9ae8"
+     stroke-width="1"
+     fill-opacity="0.18"
+     id="rect4" />
+  <text
+     x="289.0"
+     y="16.5"
+     font-size="9"
+     fill="#3b9ae8"
+     text-anchor="middle"
+     font-weight="bold"
+     id="text4">2 / 6</text>
+  <rect
+     x="10.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#4fd8e8"
+     id="rect5" />
+  <rect
+     x="60.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#4fd8e8"
+     id="rect6" />
+  <rect
+     x="110.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#2b3d57"
+     id="rect7" />
+  <rect
+     x="160.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#2b3d57"
+     id="rect8" />
+  <rect
+     x="210.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#2b3d57"
+     id="rect9" />
+  <rect
+     x="260.0"
+     y="32.0"
+     width="46.0"
+     height="4.0"
+     rx="2"
+     fill="#2b3d57"
+     id="rect10" />
+  <text
+     x="10.0"
+     y="56.0"
+     font-size="16"
+     fill="#ffffff"
+     text-anchor="start"
+     font-weight="bold"
+     id="text10">Current span</text>
+  <text
+     x="10.0"
+     y="70.0"
+     font-size="9"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text11">Apply 5.000 A load, read the DMM and enter the value.</text>
+  <rect
+     x="10.0"
+     y="78.0"
+     width="300.0"
+     height="18.0"
+     rx="4"
+     fill="#172233"
+     id="rect11" />
+  <text
+     x="18.0"
+     y="91.0"
+     font-size="10"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text12">ADC raw</text>
+  <text
+     x="302.0"
+     y="91.0"
+     font-size="10"
+     fill="#ffffff"
+     text-anchor="end"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text13">18452</text>
+  <rect
+     x="10.0"
+     y="98.0"
+     width="300.0"
+     height="18.0"
+     rx="4"
+     fill="#172233"
+     id="rect13" />
+  <text
+     x="18.0"
+     y="111.0"
+     font-size="10"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text14">Measured</text>
+  <text
+     x="302.0"
+     y="111.0"
+     font-size="10"
+     fill="#ffffff"
+     text-anchor="end"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text15">4.9067 A</text>
+  <rect
+     x="10.0"
+     y="118.0"
+     width="300.0"
+     height="18.0"
+     rx="4"
+     fill="#172233"
+     id="rect15" />
+  <text
+     x="18.0"
+     y="131.0"
+     font-size="10"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text16">Gain</text>
+  <text
+     x="302.0"
+     y="131.0"
+     font-size="10"
+     fill="#ffffff"
+     text-anchor="end"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text17">2.00024</text>
+  <rect
+     x="10.0"
+     y="138.0"
+     width="300.0"
+     height="18.0"
+     rx="4"
+     fill="#172233"
+     id="rect17" />
+  <text
+     x="18.0"
+     y="151.0"
+     font-size="10"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text18">Offset</text>
+  <text
+     x="302.0"
+     y="151.0"
+     font-size="10"
+     fill="#ffffff"
+     text-anchor="end"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text19">-2 mA</text>
+  <rect
+     x="10.0"
+     y="162.0"
+     width="300.0"
+     height="30.0"
+     rx="6"
+     fill="#1d2b40"
+     stroke="#4fd8e8"
+     stroke-width="1.6"
+     id="rect19" />
+  <text
+     x="18.0"
+     y="180.0"
+     font-size="9"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="bold"
+     id="text20">DMM reading</text>
+  <text
+     x="200.0"
+     y="183.0"
+     font-size="18"
+     fill="#ffffff"
+     text-anchor="start"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text21">5.000</text>
+  <rect
+     x="254.0"
+     y="168.0"
+     width="12.0"
+     height="20.0"
+     rx="2"
+     fill="#4fd8e8"
+     id="rect21" />
+  <text
+     x="255.0"
+     y="183.0"
+     font-size="18"
+     fill="#0e1520"
+     text-anchor="start"
+     font-weight="bold"
+     font-family="DejaVu Sans Mono, Consolas, Courier New, monospace"
+     id="text22">2</text>
+  <text
+     x="272.0"
+     y="183.0"
+     font-size="11"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="bold"
+     id="text23">A</text>
+  <text
+     x="10.0"
+     y="212.0"
+     font-size="9"
+     fill="#7f90a8"
+     text-anchor="start"
+     font-weight="normal"
+     id="text24">◀ Back</text>
+  <rect
+     x="70.0"
+     y="197.0"
+     width="180.0"
+     height="24.0"
+     rx="6"
+     fill="#1d2b40"
+     stroke="#4fd8e8"
+     stroke-width="1.4"
+     id="rect24" />
+  <path
+     d="m 107.5511,204.81048 a 5,5 0 1 0 8,0"
+     fill="none"
+     stroke="#4fd8e8"
+     stroke-width="1.6"
+     stroke-linecap="round"
+     id="path24" />
+  <line
+     x1="111.5511"
+     y1="202.31049"
+     x2="111.5511"
+     y2="209.31049"
+     stroke="#4fd8e8"
+     stroke-width="1.6"
+     stroke-linecap="round"
+     id="line24" />
+  <text
+     x="171.51875"
+     y="211.60284"
+     font-size="10px"
+     fill="#ffffff"
+     text-anchor="middle"
+     font-weight="bold"
+     id="text25">START / STOP</text>
+  <text
+     x="310.0"
+     y="212.0"
+     font-size="9"
+     fill="#7f90a8"
+     text-anchor="end"
+     font-weight="normal"
+     id="text26">Next ▶</text>
+</svg>
